@@ -3,6 +3,8 @@
     <BottomBar/>
  <v-main>
    <router-view/>
+
+    <v-main>
     </v-main>
   </v-app>
 </template>
