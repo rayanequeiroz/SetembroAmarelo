@@ -1,6 +1,6 @@
 <template>
   <v-container>
-    <h1 class="text-home text-center mt-5 m1-4 mr-4">Onde encontrar ajuda?</h1>
+    <h1 class="text-home text-center m1-4 mr-4">Onde encontrar ajuda?</h1>
     <v-main>
       <Card/>
     </v-main>

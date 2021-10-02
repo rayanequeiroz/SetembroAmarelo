@@ -1,7 +1,8 @@
 <template>
   <v-app>
     <BottomBar/>
- <v-main>
+    <v-main>
+      <router-view/>
     </v-main>
   </v-app>
 </template>
