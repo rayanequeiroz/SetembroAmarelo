@@ -23,7 +23,7 @@
         </div>
 
         <v-card-text>
-            <div class="font-weight-medium">
+            <div class="font-weight-medium text">
                 {{ item.descricao }}
             </div>
         </v-card-text>
