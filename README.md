@@ -20,5 +20,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Bizu é um web app que tem seu principal objetivo a disseminação de informação sobre doenças mentais e prevenção ao suicídio, apoiando o Setembro Amarelo.
+O Bizu é um web app que tem seu principal objetivo a disseminação de informações sobre doenças mentais e prevenção ao suicídio, apoiando o Setembro Amarelo.
 O app foi feito pelo Time 2, no Hackathon Decola da empresa Iteris
